@@ -5,4 +5,4 @@ Learning Management System
 >online courses
 >uploading and multiple downloding functionality.
 >rating
-its not a complete project, for complete source code email me at muniromair@yahoo.com
+for complete source code email me at muniromair@yahoo.com
